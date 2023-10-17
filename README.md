@@ -1,2 +1,1 @@
-# Interior-designer
-Interior Designs
+# Interior-designes
